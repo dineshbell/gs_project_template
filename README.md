@@ -48,3 +48,18 @@ For more details on the available endpoints, refer to the project's documentatio
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Outputs
+1. GET:
+   ![GET](https://github.com/dineshbell/gs_project_template/assets/121668531/e070c607-89e8-455d-9322-47ec4a08a8d6)
+2. POST:
+   ![create](https://github.com/dineshbell/gs_project_template/assets/121668531/2d4ea04f-ad19-43d7-a669-f49ead85d3ed)
+3. PUT:
+   ![PUT](https://github.com/dineshbell/gs_project_template/assets/121668531/495671b2-ea10-4b0f-bda4-bf095d273f22)
+4. POST/GET:
+   ![POST1](https://github.com/dineshbell/gs_project_template/assets/121668531/f1807a6c-e12f-4513-b899-2d150411f6ce)
+   ![POST2](https://github.com/dineshbell/gs_project_template/assets/121668531/0837e339-f199-4b19-907f-d4dfb10e0d4f)
+
+
+
+
